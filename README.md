@@ -45,7 +45,7 @@ Some useful AT commands:
 Building:
 ----------
 
-    # apt install aclocal autotools-dev automake
+    # apt install autotools-dev automake
     $ ./bootstrap
     $ ./configure --with-astversion=13.7
     $ make
