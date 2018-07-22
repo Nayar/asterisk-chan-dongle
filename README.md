@@ -45,7 +45,7 @@ Some useful AT commands:
 Building:
 ----------
 
-    # apt install autotools-dev automake
+    # apt install autotools-dev automake asterisk-dev
     $ ./bootstrap
     $ ./configure --with-astversion=13.7
     $ make
